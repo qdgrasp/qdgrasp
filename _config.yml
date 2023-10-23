@@ -122,11 +122,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: https://qdgrasp.github.io/
 - title: About
-  url: /about/
+  url: https://qdgrasp.github.io/about/
 - title: Papers
-  url: /papers/
+  url: https://qdgrasp.github.io/papers/
 - title: Github
   url: https://github.com/Johann-Huber/qd_grasp/
 

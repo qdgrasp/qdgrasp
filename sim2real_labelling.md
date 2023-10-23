@@ -52,7 +52,7 @@
 
 <p align="justify" class="space"> 
 <font style="font-size:1.35rem;font-family:'Charter',serif;">
-<a href="/generating_the_data/">Getting large datasets of simulated grasps</a>  is insufficient to make real robots seize objects. The differences between the simulated and real scenes can make high-performing solutions in simulation inefficient in reality. This issue is known as the <i>reality gap</i> and has been widely discussed in the literature (Salvato et al, 2021).
+<a href="https://qdgrasp.github.io/qdgrasp/generating_the_data/">Getting large datasets of simulated grasps</a>  is insufficient to make real robots seize objects. The differences between the simulated and real scenes can make high-performing solutions in simulation inefficient in reality. This issue is known as the <i>reality gap</i> and has been widely discussed in the literature (Salvato et al, 2021).
 </font>
 
 <br>

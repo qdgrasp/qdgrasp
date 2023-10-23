@@ -49,7 +49,7 @@
 
 <p align="justify" class="space"> 
 <font style="font-size:1.35rem;font-family:'Charter',serif;">
-Quality-Diversity methods can be used to <a href="/generating_the_data/">automatically generate large grasping datasets</a> that can be <a href="/sim2real_labelling/">exploited into the real world</a>. However, the generated reach-and-grasps trajectories are open-loop: a significant modification of the initial conditions makes a generated grasp fail. 
+Quality-Diversity methods can be used to <a href="https://qdgrasp.github.io/qdgrasp/generating_the_data/">automatically generate large grasping datasets</a> that can be <a href="https://qdgrasp.github.io/qdgrasp/sim2real_labelling/">exploited into the real world</a>. However, the generated reach-and-grasps trajectories are open-loop: a significant modification of the initial conditions makes a generated grasp fail. 
 </font>
 </p>
 
@@ -148,7 +148,7 @@ This paper proposes grasping trajectory adaptation for generalizing automaticall
 <p align="justify" class="space"> 
 
 <font style="font-size:1.35rem;">
-The reach-and-grasp trajectories are generated with QD algorithms, similarly to (Huber et al, 2023). The automatic generation of grasps with QD is described in this <a href="/generating_the_data/">related blog post</a>.
+The reach-and-grasp trajectories are generated with QD algorithms, similarly to (Huber et al, 2023). The automatic generation of grasps with QD is described in this <a href="https://qdgrasp.github.io/qdgrasp/generating_the_data/">related blog post</a>.
 
 </font>
 </p>
@@ -298,7 +298,7 @@ Such a straightforward approach modifies the initial position of the trajectory,
 
 <p align="justify" class="space"> 
 <font style="font-size:1.35rem;">
-The adapted grasping trajectory is not necessarily fully exploitable. Some poses might be out of the robot's operational space but might also lead to autocollisions or collisions with the environment (e.g., the table). The adapted trajectories are thus truncated to maximize the length of consecutive poses from the trajectory, which are reachable while assuring to preserve the prehension pose. In the worst case, the 6DoF prehension poses might be invalid. It is worth noting that the <a href="/generating_the_data/">large diversity of QD generated grasps</a> guarantees to provide several grasping solutions for a considered object pose.
+The adapted grasping trajectory is not necessarily fully exploitable. Some poses might be out of the robot's operational space but might also lead to autocollisions or collisions with the environment (e.g., the table). The adapted trajectories are thus truncated to maximize the length of consecutive poses from the trajectory, which are reachable while assuring to preserve the prehension pose. In the worst case, the 6DoF prehension poses might be invalid. It is worth noting that the <a href="https://qdgrasp.github.io/qdgrasp/generating_the_data/">large diversity of QD generated grasps</a> guarantees to provide several grasping solutions for a considered object pose.
 </font>
 </p>
 

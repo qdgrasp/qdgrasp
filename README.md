@@ -1,3 +1,3 @@
 # IMOL'23 website
 
-official [website](https://imolconf2023.github.io/) of the 6th International Workshop on Intrinsically Motivated Open-ended Learning (IMOL 2023)
+official [website](https://qdgrasp.github.io/) of the QD-Grasp project.

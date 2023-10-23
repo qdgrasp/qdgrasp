@@ -36,7 +36,7 @@
 <br>
 
 <div align="center">
-	<a href="https://arxiv.org/abs/2308.05483" target="_blank"><b>Paper</b></a> &bull; <a href="/generating_the_data/"><b>Blog post</b></a>
+	<a href="https://arxiv.org/abs/2308.05483" target="_blank"><b>Paper</b></a> &bull; <a href="https://qdgrasp.github.io/qdgrasp/generating_the_data/"><b>Blog post</b></a>
 </div>
 
 
@@ -73,7 +73,7 @@
 <br>
 
 <div align="center">
-	<a href="https://arxiv.org/abs/2310.04517" target="_blank"><b>Paper</b></a> &bull; <a href="/sim2real_labelling/"><b>Blog post</b></a>
+	<a href="https://arxiv.org/abs/2310.04517" target="_blank"><b>Paper</b></a> &bull; <a href="https://qdgrasp.github.io/qdgrasp/sim2real_labelling/"><b>Blog post</b></a>
 </div>
 
 <br>
@@ -108,7 +108,7 @@
 <br>
 
 <div align="center">
-	<a href="https://arxiv.org/abs/2310.04349" target="_blank"><b>Paper</b></a> &bull; <a href="/object_pose_adaptation/"><b>Blog post</b></a>
+	<a href="https://arxiv.org/abs/2310.04349" target="_blank"><b>Paper</b></a> &bull; <a href="https://qdgrasp.github.io/qdgrasp/object_pose_adaptation/"><b>Blog post</b></a>
 </div>
 
 

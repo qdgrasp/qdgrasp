@@ -42,7 +42,7 @@
 
 <p align="justify"> 
 <font style="font-size:1.3rem;font-family:'Georgia',serif;">
-Grasping is subject to strong interest from both the AI and the robotics communities as it is a prerequisite to many manipulation tasks (Hodson, 2018). But this hard exploration problem is still partially solved: learning policies with generalization capabilities would <a href="/about/">require large and high-quality datasets</a>.
+Grasping is subject to strong interest from both the AI and the robotics communities as it is a prerequisite to many manipulation tasks (Hodson, 2018). But this hard exploration problem is still partially solved: learning policies with generalization capabilities would <a href="https://qdgrasp.github.io/qdgrasp/about/">require large and high-quality datasets</a>.
 </font>
 </p>
 
@@ -354,7 +354,7 @@ Other experiments conducted in <a href="https://arxiv.org/abs/2308.05483">the pa
 
 <p align="justify">
 <font style="font-size:1.3rem;font-family:'Georgia',serif;">
-This work investigates how to address grasping with QD. In particular, it shows that a simple variant of MAP-Elites that focuses on selecting previously found successful grasps results in the generation of a large set of diverse and high-performing grasping trajectories. The significant gap with the compared QD state-of-the-art method shows room for improving QD algorithms to address manipulation tasks like grasping. Nevertheless, the obtained diversity is already enough for producing grasps that can be <a href="/sim2real_labelling/">exploited on real robots</a>.
+This work investigates how to address grasping with QD. In particular, it shows that a simple variant of MAP-Elites that focuses on selecting previously found successful grasps results in the generation of a large set of diverse and high-performing grasping trajectories. The significant gap with the compared QD state-of-the-art method shows room for improving QD algorithms to address manipulation tasks like grasping. Nevertheless, the obtained diversity is already enough for producing grasps that can be <a href="https://qdgrasp.github.io/qdgrasp/sim2real_labelling/">exploited on real robots</a>.
 </font>
 </p>
 

@@ -31,7 +31,7 @@
 <br>
 <br>
 
-Learn more <a href="/about/">about the QD grasp project</a>
+Learn more <a href="https://qdgrasp.github.io/qdgrasp/about/">about the QD grasp project</a>
 
 <br>
 
@@ -53,7 +53,7 @@ Learn more <a href="/about/">about the QD grasp project</a>
 <br>
 
 <div align="center" style="vertical-align:bottom ; text-align:center">
-	<font color="#1d2769" style="font-size:1.3rem;font-family:'Merriweather',serif;font-weight: bold;"> <a href="/papers/"><b>Abstracts, blog posts and link to papers</b></a> </font>
+	<font color="#1d2769" style="font-size:1.3rem;font-family:'Merriweather',serif;font-weight: bold;"> <a href="https://qdgrasp.github.io/qdgrasp/papers/"><b>Abstracts, blog posts and link to papers</b></a> </font>
 </div>
 
 <br>	
